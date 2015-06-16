@@ -1,14 +1,8 @@
 {
   "name": "angular-bundle",
   "version": "0.0.1",
-  "homepage": "https://github.com/developerlaoz/webapps",
-  "authors": [
-    "LaoZ <zhaoxiantao@pset.suntec.net>"
-  ],
-  "description": "angular bundle",
-  "keywords": [
-    "angular"
-  ],
+  "homepage": "https://github.com/developerlaoz/angular-bundle",
+  "authors": "",
   "license": "MIT",
   "ignore": [
     "**/.*",
@@ -18,11 +12,10 @@
     "tests"
   ],
   "dependencies": {
-    "angular-ui-router": "~0.2.15",
     "angular": "~1.4.0",
     "angular-animate": "~1.4.0",
     "angular-aria": "~1.4.0",
-    "angular-material": "~0.9.6",
-    "ng-cordova-oauth": "~0.1.2"
+    "angular-material": "~0.10.0",
+    "angular-ui-router": "~0.2.15"
   }
 }
