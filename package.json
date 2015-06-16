@@ -1,0 +1,18 @@
+{
+  "name": "angular-bundle",
+  "version": "0.0.1",
+  "description": "angular bundle",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-cssmin": "^0.12.3",
+    "grunt-contrib-uglify": "^0.9.1",
+    "grunt-usemin": "^3.0.0",
+    "grunt-wiredep": "^2.0.0",
+    "load-grunt-tasks": "^3.2.0"
+  }
+}
